@@ -1,0 +1,30 @@
+
+Bike Detection Report
+============================
+
+Processing Details:
+- Video: nankai4.mp4
+- Processed: 2025-06-28 20:23:09
+- Duration: 0:12:35.274866
+- Confidence Threshold: 0.5
+- Object Tracking: Enabled
+
+Detection Results:
+- Unique Bikes Tracked: 16
+- Total Detections: 16
+- Processing Time: 757.21 seconds
+
+Brand Breakdown:
+- Meituan: 3 bikes
+- HelloRide: 9 bikes
+- Didi: 4 bikes
+
+
+Technical Details:
+- Video FPS: 29.991902834008098
+- Total Frames: 926
+- Tracking Status: True
+
+Alerts:
+- Threshold: 10
+- Status: ⚠️ EXCEEDED
