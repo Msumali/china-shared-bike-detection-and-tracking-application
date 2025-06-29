@@ -59,11 +59,11 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Email configuration (you'll need to configure these)
+# Email configuration
 SMTP_SERVER = "smtp.gmail.com"  
 SMTP_PORT = 587
-SENDER_EMAIL = "msumali.projects@gmail.com"  # Change this to your email
-SENDER_PASSWORD = "hwmz zmay girl twve"  # Use app password for Gmail
+SENDER_EMAIL = "***********@gmail.com"  # Change this to your email
+SENDER_PASSWORD = "****************"  # Use app password for Gmail
 SENDER_NAME = "Bike Detection App"
 
 def validate_email(email):
