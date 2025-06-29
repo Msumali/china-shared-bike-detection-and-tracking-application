@@ -38,7 +38,6 @@ Thumbs.db
 
 # === Project-Specific ===
 uploads/
-outputs/
 logs/
 *.log
 
