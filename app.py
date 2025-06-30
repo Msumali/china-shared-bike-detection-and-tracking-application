@@ -63,7 +63,7 @@ st.markdown("""
 SMTP_SERVER = "smtp.gmail.com"  
 SMTP_PORT = 587
 SENDER_EMAIL = "***********@gmail.com"  # Change this to your email
-SENDER_PASSWORD = "****************"  # Use app password for Gmail
+SENDER_PASSWORD = "****************" # enter your app password 
 SENDER_NAME = "Bike Detection App"
 
 def validate_email(email):
